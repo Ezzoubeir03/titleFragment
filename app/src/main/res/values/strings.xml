@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">titleFragment</string>
+    <string name="title_text">Test</string>
+    <string name="panel_text">use Fragment as panel</string>
+    <string name="button_clicked">imagebutton clicked!</string>
+    <string name="smiley_description">Smiley button</string>
+    <string name="click_count">Clicked %1$d times</string>
+</resources>
